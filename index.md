@@ -4,7 +4,7 @@
 ### Github Sayfasıdır.
 
 Bu sayfa içerisinde
-* Derslere ait
+* Dersler
 * Ödevler
 * Duyurular
 Paylaşılmaktadır.
