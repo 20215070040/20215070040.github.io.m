@@ -1,11 +1,10 @@
-![](http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png)
-
+![](	https://www.osmaniye.edu.tr/Resource/Images/osmaniye-korkut-ata-universitesi.png)
 # Osmaniye Korkut Ata Üniversitesi
 ## Yönetim Bilişim Sistemleri Bölümü
 ### Github Sayfasıdır.
 
 Bu sayfa içerisinde
-* Derslere ait 
+* Derslere ait
 * Ödevler
 * Duyurular
 Paylaşılmaktadır.
